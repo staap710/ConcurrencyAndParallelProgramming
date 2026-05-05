@@ -15,16 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConcurrencyPractice.cpp">
+    <ClCompile Include="ConditionVariables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DiningPhilosophers.cpp">
+    <ClCompile Include="ClosestParticles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="LockFreeStack.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="conditionVariableExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenMP_Practice", "OpenMP_P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concurrency", "Concurrency\Concurrency.vcxproj", "{13BBEE30-8A20-4A0F-9E2A-7E0465231A03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConditionVariables", "ConditionVariables\ConditionVariables.vcxproj", "{299ED79A-7949-4F00-AC68-7AFC9709E21F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{13BBEE30-8A20-4A0F-9E2A-7E0465231A03}.Release|x64.Build.0 = Release|x64
 		{13BBEE30-8A20-4A0F-9E2A-7E0465231A03}.Release|x86.ActiveCfg = Release|Win32
 		{13BBEE30-8A20-4A0F-9E2A-7E0465231A03}.Release|x86.Build.0 = Release|Win32
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Debug|x64.ActiveCfg = Debug|x64
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Debug|x64.Build.0 = Debug|x64
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Debug|x86.ActiveCfg = Debug|Win32
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Debug|x86.Build.0 = Debug|Win32
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Release|x64.ActiveCfg = Release|x64
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Release|x64.Build.0 = Release|x64
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Release|x86.ActiveCfg = Release|Win32
+		{299ED79A-7949-4F00-AC68-7AFC9709E21F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

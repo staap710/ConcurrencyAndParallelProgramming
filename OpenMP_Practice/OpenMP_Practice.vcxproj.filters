@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OpenMP_Practice.cpp">
+    <ClCompile Include="OpenMPPractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Synchronization_Practice.cpp">
+    <ClCompile Include="SynchronizationPractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

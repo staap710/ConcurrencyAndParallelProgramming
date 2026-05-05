@@ -128,8 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OpenMP_Practice.cpp" />
-    <ClCompile Include="Synchronization_Practice.cpp" />
+    <ClCompile Include="OpenMPPractice.cpp" />
+    <ClCompile Include="SynchronizationPractice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
