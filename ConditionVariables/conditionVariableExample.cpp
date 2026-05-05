@@ -14,7 +14,7 @@
 std::atomic_bool done{ false }; // thread-safe flag (kept for compatibility with example)
 
 struct Point {
-    float x;
+    float x;    
     float y;
 };
 
